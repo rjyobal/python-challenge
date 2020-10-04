@@ -4,7 +4,6 @@ import csv
 
 #File path
 budget_csv = os.path.join("Resources", "budget_data.csv")
-#budget_csv = 'Resources/budget_data.csv'
 
 #Set variables
 output_row=[]
